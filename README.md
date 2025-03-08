@@ -1,72 +1,73 @@
-<h1> SOBIA MD <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h1>
+# _Raganork-multi-device_
+## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
+  
+<div align="center">
+   
+<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
+</div>
+
+## _Note: Use a VPN according to the server you choose if the session logs out automatically._
 <br>
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
-
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-***`FORK REPO`***
-
-  <a href="https://github.com/Sobxsparl/SOBIA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SOBIA MD" width="150"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `SOBIA MD WEBPAGE`
-<p align="left">
-<a href="https://sobia-md-pair.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/WebPage-black?style=for-the-badge&logo=google"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `SOBIA MD SESSION`
-<p align="left">
-<a href="https://sobia-md-pair.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/Session-black?style=for-the-badge&logo=render"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `HEROKU DEPLOYMENT`
-<p align="left">
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Sobxsparl/SOBIA-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `SUPPORT CHANNEL`
-<p align="left">
-<a href="https://www.whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t"><img height= "35" title="Author" src="https://img.shields.io/badge/Join-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br> `INSTAGRAM`
-<p align="left">
-<a href="https://www.instagram.com/um4rxd"><img height= "35" title="Author" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=instagram"></a>
-<p/>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<h1>OUR TEAM</h1>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<details>
-<h6>Authors</h6>
 
 <div align="center">
-  
-| [![UMAR REHMAN](https://github.com/Um4r719.png?lenght=50width=50)](https://github.com/Um4r719)|
-|----|
-| [ SOBIA BUTT ](https://github.com/Um4r719) |
-| Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## Deploy to Heroku ↓
+
+<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
 <br>
-  
-| [![Sobia Butt](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
-|----|
-| [ SOBIA BUTT ](https://github.com/Sobxsparl) |
-|  Owner |
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </div>
+<a href="https://raganork-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
 
-</details>
+## Deploy to Koyeb ↓
+
+<a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<div>
+  <br>
 
 
+## Deploy to Railway ↓
+#### (No setvar command, must set vars manually from settings)
+<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+  <div>
+<br>
+<div>
+  <br>
 
+## Deploy in VPS [linux] ↓
+<div align="left">
+
+```
+1. Install nodejs, git, ffmpeg
+2. npm i -g yarn pm2
+3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
+4. yarn install --ignore-engines --network-concurrency 1
+5. vi config.env
+6. Enter your session there in format 'SESSION=your_session_here'
+7. Press ctrl+c, then type ':wq' and press enter
+8. npm start
+
+Now the bot will start working
+```
+
+<div align="center">
+
+## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
+
+## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+
+<div align="left">
+
+# Note
+
+I can't guarantee or can be held responsible if you get blocked or banned by using this software. WhatsApp does not allow bots using unofficial methods on their platform, so this shouldn't be considered totally safe. 
+
+# Legal
+
+-   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
+-   The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+-   This is an independent and unofficial software Use at your own risk.
